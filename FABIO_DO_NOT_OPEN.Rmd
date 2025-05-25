@@ -1,0 +1,70 @@
+---
+title: "Fabio's Secret Gift"
+output:
+    html_document:
+      css: defense-in-style.css
+---
+
+```{css, echo=FALSE}
+
+
+
+.title {
+    display: none;
+}
+```
+
+<!-- Custom Header Start -->
+<div class="header">
+  <h1 class="project-name" style="color: white;">🤫🎁 Fabio's Secret Gift 🎁🤫</h1>
+  <p class="project-tagline">Please do not tell Fabio about this!</p>
+</div>
+<!-- Custom Header End -->
+
+
+## 📖 Friendship book 📖
+<center>
+In addition to the main gift, we would like to gift Fabio a “friendship book” and we need your input for that!
+</center>
+
+<br></br>
+
+**Deadline to fill out:** Monday, April 8th, 2024
+
+**Steps:**
+
+1. On the landing page, enter your name and email address (click [here](FABIO_DO_NOT_OPEN.jpg) to see what the landing page looks like).
+2. On the same landing page, pick the language inyou prefer to fill out the questionnaire.
+    + You can pick between **three** languages: English, German, and Italian, however **to fill out the questionnaire in Italian, you must pick German**. Questions will be shown in both German and Italian, and you can write in the language you prefer.
+    + If you do not see a language picker, try opening the link in private/incognito mode of your browser.
+3. Answer several questions about Fabio.
+4. Write a short personal message.
+5. Upload a picture of yourself.
+
+<hr>
+<center>
+**Ready? To access Fabio's friendship book, please click the button below**
+
+<center><a href="https://mijnvriendenboekje.nl/nw/index.php?r=participant%2Finvitation-link&bookId=64148&token=tLOQA84ZovB0YIg_Z7YUYvH1i3n7-oyE5lnkteJinDWQ" class="button" style="color: white;">Friendship Book</a></center>
+
+<br></br>
+
+**Or scan the QR code**
+
+![](NO_FABIO_QR_code.jpg)
+
+***❗❗❗️ If you can, please contribute to the gift funds. Click [here](https://fabio-defense.phd/#main_gift) to access information on how to do so ❗❗❗️***
+
+</center>
+
+<hr>
+
+#### Things to keep in mind
+
++ Everything on your page is optional so you can also leave out questions or a picture if you prefer that.
++ If you cannot access the link, please reach out to us by clicking [here](mailto:fabio.votta.defense@gmail.com) and we will add you.
++ If you have more pictures which you would like to see in the friendship book, please send them to us by clicking [here](mailto:fabio.votta.defense@gmail.com).
+
+<hr>
+
+<br></br>
