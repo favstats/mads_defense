@@ -1,0 +1,62 @@
+---
+title: "Mads's Secret Gift"
+output:
+    html_document:
+      css: defense-in-style.css
+---
+
+```{css, echo=FALSE}
+
+
+
+.title {
+    display: none;
+}
+```
+
+<!-- Custom Header Start -->
+<div class="header">
+  <h1 class="project-name" style="color: white;">🤫🎁 Mads's Secret Gift 🎁🤫</h1>
+  <p class="project-tagline">Please do not tell Mads about this!</p>
+</div>
+<!-- Custom Header End -->
+
+
+## 📖 Friendship book 📖
+<center>
+In addition to the main gift, we would like to gift Mads a “friendship book” and we need your input for that!
+</center>
+
+<br></br>
+
+**Deadline to fill out:** Monday, April 8th, 2024
+
+**Steps:**
+
+1. On the landing page, enter your name and email address (click [here](Mads_DO_NOT_OPEN.jpg) to see what the landing page looks like).
+2. On the same landing page, pick the language you prefer to fill out the questionnaire.
+3. Answer several questions about Mads.
+4. Write a short personal message.
+5. Upload a picture of yourself.
+
+<hr>
+<center>
+**Ready? To access Mads's friendship book, please click the button below**
+
+<center><a href="https://mijnvriendenboekje.nl/nw/index.php?r=participant%2Finvitation-link&bookId=64148&token=tLOQA84ZovB0YIg_Z7YUYvH1i3n7-oyE5lnkteJinDWQ" class="button" style="color: white;">Friendship Book</a></center>
+
+***❗❗❗️ If you can, please contribute to the gift funds. Click [here](https://favstats.github.io/mads_defense/#main_gift) to access information on how to do so ❗❗❗️***
+
+</center>
+
+<hr>
+
+#### Things to keep in mind
+
++ Everything on your page is optional so you can also leave out questions or a picture if you prefer that.
++ If you cannot access the link, please reach out to us by clicking [here](mailto:mads.hove.defense@gmail.com) and we will add you.
++ If you have more pictures which you would like to see in the friendship book, please send them to us by clicking [here](mailto:mads.hove.defense@gmail.com).
+
+<hr>
+
+<br></br>
